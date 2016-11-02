@@ -9,3 +9,8 @@ h2 {
 h3 {
   color:purple;
 }
+
+p.six {
+    border-style: double;
+    border-width: thick;
+}
